@@ -1,0 +1,29 @@
+FUNCTIONAL REQUIREMENT
+Registration form:
+Fr01-01. Design the theme. 
+Fr01-02. Give the heading to input information for registration.
+Fr01-03. System shell allow to input Name.
+Fr01-04. System shell allow to input father  Name.
+Fr01-05. System shell allow to input id card.
+Fr01-06. System shell allow to input gender.
+Fr01-07. System shell allow to input date of birth.
+Fr01-08. System shell allow to input program name.
+Fr01-09. System shell allow to input matric result.
+Fr01-10. System shell allow to input inter result.
+Fr01-11. System shell allow to read the polies & conditions.
+Fr01-12. Now create the submit button.(which store all information in the university database)
+
+login form:
+Fr02-01. Design the theme .
+Fr02-02. System shell allow to input Email.
+Fr02-03. System shell allow to input password.
+Fr02-04. Create the submit button. (That authenticate the email and password from database)
+Fr02-05. System shall allow the reset the password of student by email.
+
+
+
+
+
+
+
+
